@@ -1,4 +1,5 @@
 const PostCompilePlugin = require('webpack-post-compile-plugin')
+
 module.exports = {
   chainWebpack: config => {
     // sconst conf = config.toConfig()
