@@ -7,6 +7,7 @@ module.exports = {
       .plugin('post-compile')
       .use(PostCompilePlugin)
   },
+  
   css: {
     loaderOptions: {
       stylus: {
