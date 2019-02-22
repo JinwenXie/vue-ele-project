@@ -11,6 +11,8 @@ module.exports = {
     loaderOptions: {
       stylus: {
         'resolve url': true
+        // 自定义主题场景
+        // import: [path.resolve(__dirname, './src/theme')]
       }
     }
   }
