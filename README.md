@@ -41,92 +41,68 @@
 	│  prod.server.js
 	│  tree.txt
 	│  vue.config.js
-	│  
 	├─public
 	│      favicon.ico
 	│      index.html
-	│      
 	└─src
 	    │  App.vue
 	    │  cube-ui.js
 	    │  main.js
 	    │  register.js
 	    │  theme.styl
-	    │  
 	    ├─api
 	    │      helpers.js
 	    │      index.js
-	    │      
 	    ├─assets
 	    │      logo.png
-	    │      
 	    ├─common
 	    │  ├─fonts
 	    │  │      sell-icon.eot
 	    │  │      sell-icon.svg
 	    │  │      sell-icon.ttf
 	    │  │      sell-icon.woff
-	    │  │      
 	    │  ├─js
 	    │  │      storage.js
-	    │  │      
 	    │  ├─mixins
 	    │  │      popup.js
 	    │  │      rating.js
-	    │  │      
 	    │  └─stylus
 	    │          base.styl
 	    │          icon.styl
 	    │          index.styl
 	    │          mixin.styl
 	    │          variable.styl
-	    │          
 	    └─components
 	        ├─bubble
 	        │      bubble.vue
-	        │      
 	        ├─cart-control
 	        │      cart-control.vue
-	        │      
 	        ├─food
 	        │      food.vue
-	        │      
 	        ├─goods
 	        │      goods.vue
-	        │      
 	        ├─header-detail
 	        │      header-detail.vue
-	        │      
 	        ├─rating-select
 	        │      rating-select.vue
-	        │      
 	        ├─ratings
 	        │      ratings.vue
-	        │      
 	        ├─seller
 	        │      seller.vue
-	        │      
 	        ├─shop-cart
 	        │      shop-cart.vue
-	        │      
 	        ├─shop-cart-list
 	        │      shop-cart-list.vue
-	        │      
 	        ├─shop-cart-sticky
 	        │      shop-cart-sticky.vue
-	        │      
 	        ├─split
 	        │      split.vue
-	        │      
 	        ├─star
 	        │      star.vue
-	        │      
 	        ├─support-ico
 	        │      support-ico.vue
-	        │      
 	        ├─tab
 	        │      tab.vue
-	        │      
 	        └─v-header
 	                brand@2x.png
 	                brand@3x.png
