@@ -1,0 +1,167 @@
+文件夹 PATH 列表
+卷序列号为 EE0F-0BD7
+D:.
+│  .browserslistrc
+│  .editorconfig
+│  .eslintrc.js
+│  .gitignore
+│  babel.config.js
+│  data.json
+│  output.js
+│  package-lock.json
+│  package.json
+│  postcss.config.js
+│  prod.server.js
+│  tree.txt
+│  vue.config.js
+│  
+├─public
+│      favicon.ico
+│      index.html
+│      
+└─src
+    │  App.vue
+    │  cube-ui.js
+    │  main.js
+    │  register.js
+    │  theme.styl
+    │  
+    ├─api
+    │      helpers.js
+    │      index.js
+    │      
+    ├─assets
+    │      logo.png
+    │      
+    ├─common
+    │  ├─fonts
+    │  │      sell-icon.eot
+    │  │      sell-icon.svg
+    │  │      sell-icon.ttf
+    │  │      sell-icon.woff
+    │  │      
+    │  ├─js
+    │  │      storage.js
+    │  │      
+    │  ├─mixins
+    │  │      popup.js
+    │  │      rating.js
+    │  │      
+    │  └─stylus
+    │          base.styl
+    │          icon.styl
+    │          index.styl
+    │          mixin.styl
+    │          variable.styl
+    │          
+    └─components
+        ├─bubble
+        │      bubble.vue
+        │      
+        ├─cart-control
+        │      cart-control.vue
+        │      
+        ├─food
+        │      food.vue
+        │      
+        ├─goods
+        │      goods.vue
+        │      
+        ├─header-detail
+        │      header-detail.vue
+        │      
+        ├─rating-select
+        │      rating-select.vue
+        │      
+        ├─ratings
+        │      ratings.vue
+        │      
+        ├─seller
+        │      seller.vue
+        │      
+        ├─shop-cart
+        │      shop-cart.vue
+        │      
+        ├─shop-cart-list
+        │      shop-cart-list.vue
+        │      
+        ├─shop-cart-sticky
+        │      shop-cart-sticky.vue
+        │      
+        ├─split
+        │      split.vue
+        │      
+        ├─star
+        │      star.vue
+        │      star24_half@2x.png
+        │      star24_half@3x.png
+        │      star24_off@2x.png
+        │      star24_off@3x.png
+        │      star24_on@2x.png
+        │      star24_on@3x.png
+        │      star36_half@2x.png
+        │      star36_half@3x.png
+        │      star36_off@2x.png
+        │      star36_off@3x.png
+        │      star36_on@2x.png
+        │      star36_on@3x.png
+        │      star48_half@2x.png
+        │      star48_half@3x.png
+        │      star48_off@2x.png
+        │      star48_off@3x.png
+        │      star48_on@2x.png
+        │      star48_on@3x.png
+        │      
+        ├─support-ico
+        │      decrease_1@2x.png
+        │      decrease_1@3x.png
+        │      decrease_2@2x.png
+        │      decrease_2@3x.png
+        │      decrease_3@2x.png
+        │      decrease_3@3x.png
+        │      decrease_4@2x.png
+        │      decrease_4@3x.png
+        │      discount_1@2x.png
+        │      discount_1@3x.png
+        │      discount_2@2x.png
+        │      discount_2@3x.png
+        │      discount_3@2x.png
+        │      discount_3@3x.png
+        │      discount_4@2x.png
+        │      discount_4@3x.png
+        │      guarantee_1@2x.png
+        │      guarantee_1@3x.png
+        │      guarantee_2@2x.png
+        │      guarantee_2@3x.png
+        │      guarantee_3@2x.png
+        │      guarantee_3@3x.png
+        │      guarantee_4@2x.png
+        │      guarantee_4@3x.png
+        │      invoice_1@2x.png
+        │      invoice_1@3x.png
+        │      invoice_2@2x.png
+        │      invoice_2@3x.png
+        │      invoice_3@2x.png
+        │      invoice_3@3x.png
+        │      invoice_4@2x.png
+        │      invoice_4@3x.png
+        │      special_1@2x.png
+        │      special_1@3x.png
+        │      special_2@2x.png
+        │      special_2@3x.png
+        │      special_3@2x.png
+        │      special_3@3x.png
+        │      special_4@2x.png
+        │      special_4@3x.png
+        │      support-ico.vue
+        │      
+        ├─tab
+        │      tab.vue
+        │      
+        └─v-header
+                brand@2x.png
+                brand@3x.png
+                bulletin@2x.png
+                bulletin@3x.png
+                v-header.vue
+                
