@@ -1,4 +1,4 @@
-# code
+# vue-sell-cube
 
 ## Project setup
 ```
